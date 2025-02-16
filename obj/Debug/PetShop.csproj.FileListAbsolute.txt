@@ -1,0 +1,79 @@
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\PetShop.exe.config
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\PetShop.exe
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\PetShop.pdb
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\MySql.Data.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\Google.Protobuf.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\ZstdNet.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\BouncyCastle.Crypto.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\Ubiety.Dns.Core.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\System.Buffers.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\K4os.Compression.LZ4.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\K4os.Hash.xxHash.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\MySql.Data.xml
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.exe.config
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.Form1.resources
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.Properties.Resources.resources
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.csproj.GenerateResource.cache
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.csproj.CoreCompileInputs.cache
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.csproj.CopyComplete
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.exe
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.pdb
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\System.Memory.dll
+D:\home\aluno\Desktop\PetShop\PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.csproj.AssemblyReference.cache
+D:\home\aluno\Desktop\PetShop\PetShop\obj\Debug\PetShop.Form2.resources
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.csproj.AssemblyReference.cache
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.exe.config
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.Properties.Resources.resources
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.csproj.GenerateResource.cache
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.exe
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.pdb
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\PetShop.exe.config
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\PetShop.exe
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\PetShop.pdb
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\Google.Protobuf.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\ZstdNet.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\System.Memory.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\System.Buffers.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\bin\Debug\MySql.Data.xml
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.csproj.CopyComplete
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.Frm_Cadastro_proprietario.resources
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.Frm_Cadastro_funcionario.resources
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.Frm_Procedimento.resources
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.Frm_Cadastro_Pet.resources
+C:\Users\sadid\OneDrive\Área de Trabalho\PetShop\PetShop\obj\Debug\PetShop.PagCentral.resources
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\PetShop.exe.config
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\PetShop.exe
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\PetShop.pdb
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\Google.Protobuf.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\ZstdNet.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\BouncyCastle.Crypto.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\Ubiety.Dns.Core.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\System.Memory.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\System.Buffers.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\K4os.Compression.LZ4.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\K4os.Hash.xxHash.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\System.Numerics.Vectors.dll
+D:\Backup\BRUNA\PetShop\PetShop\bin\Debug\MySql.Data.xml
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.csproj.AssemblyReference.cache
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.exe.config
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.Frm_Cadastro_proprietario.resources
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.Frm_Cadastro_funcionario.resources
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.Frm_Cadastro_Pet.resources
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.Frm_Procedimento.resources
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.PagCentral.resources
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.Properties.Resources.resources
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.csproj.GenerateResource.cache
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.csproj.CoreCompileInputs.cache
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.csproj.CopyComplete
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.exe
+D:\Backup\BRUNA\PetShop\PetShop\obj\Debug\PetShop.pdb
